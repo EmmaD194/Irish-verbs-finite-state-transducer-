@@ -1,0 +1,9 @@
+echo << Building FST >>>
+clear stack
+read lexc < lex1.lexc
+define LEX
+read regex < rules.regex
+define RUL
+read regex LEX .o. RUL;
+save mylang.fst
+echo << End of Script>>

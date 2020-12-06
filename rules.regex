@@ -1,0 +1,10 @@
+[] -> h || .#. [b |c |d |f |g |m |p |t] _ ? + ^Verb ?* %^Séimhiú;
+[] -> h || .#. s _ [a |e |i |o |u |á |é |í |ó |ú |l |n | r] ?* ^Verb ?* %^Séimhiú;
+[]-> d ' || .#. _ [a |e |i |o |u |á |é |í |ó |ú | f h] ?+ %^Verb ?* %^Séimhiú;
+%^Séimhiú -> [];
+i g h -> [] || _ %^igh [[\%^Root]|.#.];
+a i g h -> [] || _%^aigh [\%^Root];
+%^igh -> [];
+%^aigh -> [];
+%^Root -> [];
+%^Slender -> [];

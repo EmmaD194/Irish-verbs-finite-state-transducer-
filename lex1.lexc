@@ -1,0 +1,753 @@
+Multichar_Symbols
++Verb +1PSg +2PSg +3PSg +1PPl +2PPl +3PPl +Auto
++Pres +Past +Fut +Con +Imperf +PresHab 
+^Verb ^Séimhiú ^Root ^igh ^aigh ^Irreg
+
+LEXICON Root
+	Verbs;
+LEXICON Verbs
+!VERB		 	TYPE					MEANING
+bog				broad-1;				! to move
+cas				broad-1;				! to turn
+cead			broad-1;				! to permit
+ceap			broad-1;				! to think
+díol			broad-1;				! to sell
+dún				broad-1;				! to close
+fág				broad-1;				! to leave
+fan				broad-1;				! to wait
+féad			broad-1;				! to be able to
+gearr			broad-1;				! to cut
+glac			broad-1;				! to accept/handle
+glan			broad-1;				! to clean
+íoc				broad-1;				! to pay
+las				broad-1;				! to light
+leag			broad-1;				! to knock down
+leath			broad-1;				! to spread
+mol				broad-1;				! to praise
+ól				broad-1;				! to drink
+póg				broad-1;				! to kiss
+réab			broad-1;				! to tear
+scríobh			broad-1;				! to write
+scuab			broad-1;				! to sweep
+seas			broad-1;				! to stand
+seiceáil		broad-1;				! to check *
+siúil			broad-1;				! to walk *
+stop			broad-1;				! to stop
+teann			broad-1;				! to tighten
+tóg				broad-1;				! to take/build
+
+labhair			broad-2;				! to speak
+oscail			broad-2;				! to open
+
+bain			slender-1;				! to take out
+bris			slender-1;				! to break
+buail			slender-1;				! to hit/meet
+caill			slender-1;				! to lose
+caith			slender-1;				! to throw/spend/wear
+creid			slender-1;				! to believe
+croith			slender-1;				! to shake
+cuir			slender-1;				! to put
+doirt			slender-1;				! to pour
+druid			slender-1;				! to shut
+éist			slender-1;				! to listen
+fill 			slender-1;				! to return
+gluais			slender-1;				! to move
+léim			slender-1;				! to jump
+light			slender-1;				! to let
+rith			slender-1;				! to run
+ruaig			slender-1;				! to chase
+scaoil			slender-1;				! to release
+síl				slender-1;				! to consider
+sméid			slender-1;				! to beckon
+teith			slender-1;				! to flee
+tit				slender-1;				! to fall
+tuig			slender-1;				! to understand
+tréig			slender-1;				! to abandon		
+
+aithin			slender-2;				! to recognise
+cuimil			slender-2;				! to rub
+inis			slender-2;				! to tell
+tarraing 		slender-2;				! to pull/draw
+
+ardaigh			ending-aigh;			! to raise
+athraigh		ending-aigh;			! to change
+beartaigh		ending-aigh;			! to cast/poise
+breathnaigh		ending-aigh;			! to observe/examine
+ceannaigh 		ending-aigh; 			! to buy
+críochnaigh 	ending-aigh;			! to finish
+cuardaigh		ending-aigh;			! to search
+cúlaigh			ending-aigh;			! to move back/reverse
+damhsaigh		ending-aigh;			! to dance
+fiafraigh		ending-aigh;			! to ask
+laghdaigh		ending-aigh;			! to lessen/reduce
+maraigh			ending-aigh;			! to kill
+marcaigh		ending-aigh;			! to ride
+mothaigh		ending-aigh;			! to feel
+rialaigh		ending-aigh;			! to rule
+roghnaigh		ending-aigh;			! to choose
+sleamhnaigh 	ending-aigh;			! to slide/slip
+sruthlaigh		ending-aigh;			! to rinse
+tosaigh			ending-aigh;			! to start	
+trasnaigh		ending-aigh;			! to traverse/cross
+
+aimsigh			ending-igh;				! to aim
+airigh			ending-igh;				! to perceive
+bailigh 		ending-igh; 			! to collect
+cinntigh		ending-igh;				! to confirm
+coinnigh		ending-igh;				! to keep
+cruinnigh		ending-igh;				! to gather
+cuidigh			ending-igh;				! to share
+cuimhnigh		ending-igh;				! to remember
+deisigh			ending-igh;				! to mend
+dírigh			ending-igh;				! to straighten
+dúisigh			ending-igh;				! to wake up
+éirigh			ending-igh;				! to rise
+guigh			ending-igh;				! to pray
+imigh			ending-igh;				! to go
+ísligh			ending-igh;				! to lower
+oibrigh			ending-igh;				! to work
+smaoinigh		ending-igh;				! to think
+suigh			ending-igh;				! to sit
+
+!IRREGULAR VERBS
+irreg-abair;			! to say
+irreg-beir;				! to catch
+irreg-bí;				! to be
+irreg-clois;			! to hear
+irreg-déan;				! to make/do
+irreg-faigh;			! to get
+irreg-feic;				! to see
+irreg-ith;				! to eat
+irreg-tabhair;			! to give
+irreg-tar;				! to come
+irreg-téigh;			! to go
+
+LEXICON broad-1			! one syllable broad
++Verb+Pres:0 			broad-1-pres;
++Verb+Past:0			broad-1-past;
++Verb+Fut:0				broad-1-fut;
++Verb+Fut:0				broad-1-con;
++Verb+Imperf:0			broad-1-imperf;
+
+LEXICON ending-aigh 		
+0:^aigh					broad-2;
+
+LEXICON broad-2			! two syllable broad
++Verb+Pres:0			broad-2-pres;
++Verb+Past:0 			broad-2-past;
++Verb+Fut:0 			broad-2-fut;
++Verb+Con:0				broad-2-con;
++Verb+Imperf:0			broad-2-imperf;
+
+
+LEXICON slender-1		! one syllable slender
++Verb+Pres:0 			slender-1-pres;
++Verb+Past:0 			slender-1-past;
++Verb+Fut:0 			slender-1-fut;
++Verb+Con:0				slender-1-con;
++Verb+Imperf:0			slender-1-imperf;
+
+LEXICON ending-igh			
+0:^igh					slender-2;
+
+LEXICON slender-2		! two syllable slender
++Verb+Pres:0			slender-2-pres;
++Verb+Past:0			slender-2-past;
++Verb+Fut:0				slender-2-fut;
++Verb+Con:0				slender-2-con;
++Verb+Imperf:0			slender-2-imperf;
+
+
+LEXICON broad-1-pres
++1Psg:aim 					#;
++2Psg:ann					#;
++3Psg:ann					#;
++1PPl:aimid					#;
++2PPl:ann					#;
++3PPl:ann					#;
++Auto:tar 					#;
+
+LEXICON broad-1-past
++1PSg:^Root^Séimhiú			#;
++2PSg:^Root^Séimhiú			#;
++3PSg:^Root^Séimhiú			#;
++1PPl:amar^Séimhiú			#;
++2PPl:^Root^Séimhiú			#;
++3PPl:^Root^Séimhiú			#; 
++Auto:adh 					#;
+
+LEXICON broad-1-fut
++1PSg:faidh					#;
++2PSg:faidh					#;
++3PSg:faidh					#;
++1PPl:faimid				#;
++2PPl:faidh					#;
++3PPl:faidh					#;
++Auto:far 					#;
+
+LEXICON broad-1-con
++1PSg:fainn^Séimhiú			#;
++2PSg:fá^Séimhiú			#;
++3PSg:fadh^Séimhiú			#;
++1PPl:faimis^Séimhiú		#;
++2PPl:fadh^Séimhiú			#;
++3PPl:faidís^Séimhiú		#;
++Auto:faí^Séimhiú			#;
+
+LEXICON broad-1-imperf
++1Psg:ainn 					#;
++2Psg:tá					#;
++3Psg:adh					#;
++1PPl:aimis					#;
++2PPl:adh					#;
++3PPl:aidís					#;
++Auto:taí 					#;
+
+LEXICON broad-2-pres
++1PSg:aím					#;
++2PSg:aíonn 				#;
++3PSg:aíonn 				#;
++1PPl:aímid					#;
++2PPl:aíonn 				#;
++3PPl:aíonn 				#;
++Auto:aítear 				#;
+
+LEXICON broad-2-past
++1PSg:^Root^Séimhiú			#;
++2PSg:^Root^Séimhiú			#;
++3PSg:^Root^Séimhiú			#;
++1PPl:aíomar^Séimhiú		#;
++2PPl:^Root^Séimhiú			#;
++3PPl:^Root^Séimhiú			#; 
++Auto:aíodh 				#;
+
+LEXICON broad-2-fut
++1PSg:óidh					#;
++2PSg:óidh					#;
++3PSg:óidh					#;
++1PPl:óimid					#;
++2PPl:óidh					#;
++3PPl:óidh					#;
++Auto:ófar 					#;
+
+LEXICON broad-2-con
++1PSg:óinn^Séimhiú			#;
++2PSg:ófá^Séimhiú			#;
++3PSg:ódh^Séimhiú			#;
++1PPl:óimis^Séimhiú			#;
++2PPl:ódh^Séimhiú			#;
++3PPl:óidís^Séimhiú			#;
++Auto:ófaí^Séimhiú 			#;
+
+LEXICON broad-2-imperf
++1Psg:inn 					#;
++2Psg:teá					#;
++3Psg:eadh					#;
++1PPl:imis					#;
++2PPl:eadh					#;
++3PPl:idís					#;
++Auto:tí 					#;
+
+LEXICON slender-1-pres
++1Psg:im 					#;
++2Psg:eann					#;
++3Psg:eann					#;
++1PPl:imid					#;
++2PPl:eann					#;
++3PPl:eann					#;
++Auto:tear 					#;
+
+LEXICON slender-1-past
++1PSg:^Root^Séimhiú			#;
++2PSg:^Root^Séimhiú			#;
++3PSg:^Root^Séimhiú			#;
++1PPl:eamar^Séimhiú		#;
++2PPl:^Root^Séimhiú			#;
++3PPl:^Root^Séimhiú			#; 
++Auto:eadh 					#;
+
+LEXICON slender-1-fut
++1PSg:fidh					#;
++2PSg:fidh					#;
++3PSg:fidh					#;
++1PPl:fimid					#;
++2PPl:fidh					#;
++3PPl:fidh					#;
++Auto:fear 					#;
+
+LEXICON slender-1-con
++1PSg:finn^Séimhiú			#;
++2PSg:feá^Séimhiú			#;
++3PSg:feadh^Séimhiú			#;
++1PPl:fimis^Séimhiú			#;
++2PPl:feadh^Séimhiú			#;
++3PPl:fidís^Séimhiú			#;
++Auto:fí^Séimhiú 			#;
+
+LEXICON slender-1-imperf
++1Psg:aínn 					#;
++2Psg:aíteá					#;
++3Psg:aíodh					#;
++1PPl:aímis					#;
++2PPl:aíodh					#;
++3PPl:aídís					#;
++Auto:aítí 					#;
+
+LEXICON slender-2-pres
++1PSg:ím					#;
++2PSg:íonn 					#;
++3PSg:íonn 					#;
++1PPl:ímid					#;
++2PPl:íonn 					#;
++3PPl:íonn 					#;
++Auto:ítear 				#;
+
+LEXICON slender-2-past
++1PSg:^Root^Séimhiú			#;
++2PSg:^Root^Séimhiú			#;
++3PSg:^Root^Séimhiú			#;
++1PPl:íomar^Séimhiú		#;
++2PPl:^Root^Séimhiú			#;
++3PPl:^Root^Séimhiú			#; 
++Auto:íodh 					#;
+
+LEXICON slender-2-fut
++1PSg:eoidh					#;
++2PSg:eoidh					#;
++3PSg:eoidh					#;
++1PPl:eoimid				#;
++2PPl:eoidh					#;
++3PPl:eoidh					#;
++Auto:eofar 				#;
+
+LEXICON slender-2-con
++1PSg:eoinn^Séimhiú			#;
++2PSg:eofá^Séimhiú			#;
++3PSg:eodh^Séimhiú			#;
++1PPl:eoimis^Séimhiú		#;
++2PPl:eodh^Séimhiú			#;
++3PPl:eoidís^Séimhiú		#;
++Auto:eofaí^Séimhiú 		#;
+
+LEXICON slender-2-imperf
++1Psg:ínn 					#;
++2Psg:íteá					#;
++3Psg:íodh					#;
++1PPl:ímis					#;
++2PPl:íodh					#;
++3PPl:ídís					#;
++Auto:ítí 					#;
+
+LEXICON irreg-abair
++Verb+Irreg+Pres+1PSg:deirim			#;
++Verb+Irreg+Pres+2PSg:deir				#;
++Verb+Irreg+Pres+3PSg:deir				#;
++Verb+Irreg+Pres+1PPl:deirimid			#;
++Verb+Irreg+Pres+2PPl:deir				#;
++Verb+Irreg+Pres+3PPl:deir				#;
++Verb+Irreg+Pres+Auto:deirtear			#;
++Verb+Irreg+Past+1PSg:dúirt				#;
++Verb+Irreg+Past+2PSg:dúirt				#;
++Verb+Irreg+Past+3PSg:dúirt				#;	
++Verb+Irreg+Past+1PPl:dúramar			#;
++Verb+Irreg+Past+2PPl:dúirt				#;
++Verb+Irreg+Past+3PPl:dúirt				#;
++Verb+Irreg+Past+Auto:dúradh			#;
++Verb+Irreg+Fut+1PSg:déarfaidh			#;
++Verb+Irreg+Fut+2PSg:déarfaidh			#;
++Verb+Irreg+Fut+3PSg:déarfaidh			#;
++Verb+Irreg+Fut+1PPl:déarfaimid			#;
++Verb+Irreg+Fut+2PPl:déarfaidh			#;
++Verb+Irreg+Fut+3PPl:déarfaidh			#;
++Verb+Irreg+Fut+Auto:déarfar			#;
++Verb+Irreg+Con+1PSg:déarfainn			#;
++Verb+Irreg+Con+2PSg:déarfá				#;
++Verb+Irreg+Con+3PSg:déarfadh			#;
++Verb+Irreg+Con+1PPl:déarfaimis			#;
++Verb+Irreg+Con+2PPl:déarfadh			#;
++Verb+Irreg+Con+3PPl:déarfaidís			#;
++Verb+Irreg+Con+Auto:déarfaí			#;
++Verb+Irreg+Imperf+1PSg:deirinn			#;
++Verb+Irreg+Imperf+2PSg:deirteá			#;
++Verb+Irreg+Imperf+3PSg:deireadh		#;
++Verb+Irreg+Imperf+1PPl:deirimis		#;
++Verb+Irreg+Imperf+2PPl:deireadh		#;
++Verb+Irreg+Imperf+3PPl:deiridís		#;
++Verb+Irreg+Imperf+Auto:deirtí			#;
+
+LEXICON irreg-beir
++Verb+Irreg+Pres+1PSg:beirim			#;
++Verb+Irreg+Pres+2PSg:beireann			#;
++Verb+Irreg+Pres+3PSg:beireann			#;
++Verb+Irreg+Pres+1PPl:beirimid			#;
++Verb+Irreg+Pres+2PPl:beireann			#;
++Verb+Irreg+Pres+3PPl:beireann			#;
++Verb+Irreg+Pres+Auto:béartear			#;
++Verb+Irreg+Past+1PSg:rug				#;
++Verb+Irreg+Past+2PSg:rug				#;
++Verb+Irreg+Past+3PSg:rug				#;
++Verb+Irreg+Past+1PPl:rugamar			#;
++Verb+Irreg+Past+2PPl:rug				#;
++Verb+Irreg+Past+3PPl:rug				#;
++Verb+Irreg+Past+Auto:rugadh			#;
++Verb+Irreg+Fut+1PSg:béarfaidh			#;
++Verb+Irreg+Fut+2PSg:béarfaidh			#;
++Verb+Irreg+Fut+3PSg:béarfaidh			#;
++Verb+Irreg+Fut+1PPl:béarfaimid			#;
++Verb+Irreg+Fut+2PPl:béarfaidh			#;
++Verb+Irreg+Fut+3PPl:béarfaidh			#;
++Verb+Irreg+Fut+Auto:béarfar			#;
++Verb+Irreg+Con+1PSg:bhéarfainn			#;
++Verb+Irreg+Con+2PSg:bhéarfá			#;
++Verb+Irreg+Con+3PSg:bhéarfadh			#;
++Verb+Irreg+Con+1PPl:bhéarfaimis		#;
++Verb+Irreg+Con+2PPl:bhéarfadh			#;
++Verb+Irreg+Con+3PPl:bhéarfaidís		#;
++Verb+Irreg+Con+Auto:bhéarfaí			#;
++Verb+Irreg+Imperf+1PSg:bheirinn		#;	
++Verb+Irreg+Imperf+2PSg:bheirteá		#;
++Verb+Irreg+Imperf+3PSg:bheireadh		#;
++Verb+Irreg+Imperf+1PPl:bheirimis		#;
++Verb+Irreg+Imperf+2PPl:bheireadh		#;
++Verb+Irreg+Imperf+3PPl:bheiridís		#;
++Verb+Irreg+Imperf+Auto:bheirtí			#;
+
+LEXICON irreg-bí
++Verb+Irreg+Pres+1PSg:táim				#;
++Verb+Irreg+Pres+2PSg:tá				#;
++Verb+Irreg+Pres+3PSg:tá				#;
++Verb+Irreg+Pres+1PPl:táimid			#;
++Verb+Irreg+Pres+2PPl:tá				#;
++Verb+Irreg+Pres+3PPl:tá				#;
++Verb+Irreg+Pres+Auto:táthar			#;
++Verb+Irreg+PresHab+1PSg:bím			#;
++Verb+Irreg+PresHab+2PSg:bíonn			#;
++Verb+Irreg+PresHab+3PSg:bíonn			#;
++Verb+Irreg+PresHab+1PPl:bímid			#;
++Verb+Irreg+PresHab+2PPl:bíonn			#;
++Verb+Irreg+PresHab+3PPl:bíonn			#;
++Verb+Irreg+PresHab+Auto:bítear			#;
++Verb+Irreg+Past+1PSg:bhí				#;
++Verb+Irreg+Past+2PSg:bhí				#;
++Verb+Irreg+Past+3PSg:bhí				#;
++Verb+Irreg+Past+1PPl:bhíomar			#;
++Verb+Irreg+Past+2PPl:bhí				#;
++Verb+Irreg+Past+3PPl:bhí				#;
++Verb+Irreg+Past+Auto:bhíothas			#;
++Verb+Irreg+Fut+1PSg:beidh				#;
++Verb+Irreg+Fut+2PSg:beidh				#;		
++Verb+Irreg+Fut+3PSg:beidh				#;
++Verb+Irreg+Fut+1PPl:beimid				#;		
++Verb+Irreg+Fut+2PPl:beidh				#;
++Verb+Irreg+Fut+3PPl:beidh				#;
++Verb+Irreg+Fut+Auto:beifear			#;
++Verb+Irreg+Con+1PSg:bheinn				#;
++Verb+Irreg+Con+2PSg:bheifeá			#;
++Verb+Irreg+Con+3PSg:bheadh				#;		
++Verb+Irreg+Con+1PPl:bheimis			#;
++Verb+Irreg+Con+2PPl:bheadh				#;		
++Verb+Irreg+Con+3PPl:bheidís			#;	
++Verb+Irreg+Con+Auto:bheifí				#;
++Verb+Irreg+Imperf+1PSg:bhínn			#;
++Verb+Irreg+Imperf+2PSg:bhiteá			#;
++Verb+Irreg+Imperf+3PSg:bhíodh			#;
++Verb+Irreg+Imperf+1PPl:bhímis			#;
++Verb+Irreg+Imperf+2PPl:bhíodh			#;
++Verb+Irreg+Imperf+3PPl:bhídís			#;		
++Verb+Irreg+Imperf+Auto:bhítí			#;
+
+LEXICON irreg-clois
++Verb+Irreg+Pres+1PSg:cloisim			#;
++Verb+Irreg+Pres+2PSg:cloiseann			#;
++Verb+Irreg+Pres+3PSg:cloiseann			#;
++Verb+Irreg+Pres+1PPl:cloisimid			#;
++Verb+Irreg+Pres+2PPl:cloiseann			#;
++Verb+Irreg+Pres+3PPl:cloiseann			#;
++Verb+Irreg+Pres+Auto:cloistear			#;
++Verb+Irreg+Past+1PSg:chuala			#;
++Verb+Irreg+Past+2PSg:chuala			#;
++Verb+Irreg+Past+3PSg:chuala			#;
++Verb+Irreg+Past+1PPl:chualamar			#;
++Verb+Irreg+Past+2PPl:chuala			#;
++Verb+Irreg+Past+3PPl:chuala			#;
++Verb+Irreg+Past+Auto:chualathas		#;		
++Verb+Irreg+Fut+1PSg:cloisfidh			#;	
++Verb+Irreg+Fut+2PSg:cloisfidh			#;
++Verb+Irreg+Fut+3PSg:cloisfidh			#;
++Verb+Irreg+Fut+1PPl:cloisfimid			#;
++Verb+Irreg+Fut+2PPl:cloisfidh			#;
++Verb+Irreg+Fut+3PPl:cloisfidh			#;
++Verb+Irreg+Fut+Auto:cloisfear			#;	
++Verb+Irreg+Con+1PSg:chloisfinn			#;
++Verb+Irreg+Con+2PSg:chloisfeá			#;
++Verb+Irreg+Con+3PSg:chloisfeadh		#;
++Verb+Irreg+Con+1PPl:chloisfimis		#;		
++Verb+Irreg+Con+2PPl:chloisfeadh		#;
++Verb+Irreg+Con+3PPl:chloisfidís		#;
++Verb+Irreg+Con+Auto:chloisfí			#;
++Verb+Irreg+Imperf+1PSg:chloisinn		#;
++Verb+Irreg+Imperf+2PSg:chloisteá		#;
++Verb+Irreg+Imperf+3PSg:chloiseadh		#;
++Verb+Irreg+Imperf+1PPl:chloisimis		#;
++Verb+Irreg+Imperf+2PPl:chloiseadh		#;
++Verb+Irreg+Imperf+3PPl:chloisidís		#;	
++Verb+Irreg+Imperf+Auto:chloistí		#;	
+
+LEXICON irreg-déan
++Verb+Irreg+Pres+1PSg:déanaim			#;
++Verb+Irreg+Pres+2PSg:déanann			#;
++Verb+Irreg+Pres+3PSg:déanann			#;
++Verb+Irreg+Pres+1PPl:déanaimid			#;
++Verb+Irreg+Pres+2PPl:déanann			#;
++Verb+Irreg+Pres+3PPl:déanann			#;
++Verb+Irreg+Pres+Auto:déantar			#;
++Verb+Irreg+Past+1PSg:rinne				#;
++Verb+Irreg+Past+2PSg:rinne				#;
++Verb+Irreg+Past+3PSg:rinne				#;
++Verb+Irreg+Past+1PPl:rinneamar			#;
++Verb+Irreg+Past+2PPl:rinne				#;
++Verb+Irreg+Past+3PPl:rinne				#;		
++Verb+Irreg+Past+Auto:rinneadh			#;
++Verb+Irreg+Fut+1PSg:déanfaidh			#;
++Verb+Irreg+Fut+2PSg:déanfaidh			#;	
++Verb+Irreg+Fut+3PSg:déanfaidh			#;
++Verb+Irreg+Fut+1PPl:déanfaimid			#;
++Verb+Irreg+Fut+2PPl:déanfaidh			#;
++Verb+Irreg+Fut+3PPl:déanfaidh			#;
++Verb+Irreg+Fut+Auto:déanfar			#;
++Verb+Irreg+Con+1PSg:dhéanfainn			#;
++Verb+Irreg+Con+2PSg:dhéanfá			#;
++Verb+Irreg+Con+3PSg:dhéanfadh			#;
++Verb+Irreg+Con+1PPl:dhéanfaimis		#;	
++Verb+Irreg+Con+2PPl:dhéanfadh			#;
++Verb+Irreg+Con+3PPl:dhéanfaidís		#;	
++Verb+Irreg+Con+Auto:dhéanfaí			#;
++Verb+Irreg+Imperf+1PSg:dhéanainn		#;
++Verb+Irreg+Imperf+2PSg:dhéantá			#;
++Verb+Irreg+Imperf+3PSg:dhéanadh		#;
++Verb+Irreg+Imperf+1PPl:dhéanaimis		#;
++Verb+Irreg+Imperf+2PPl:dhéanadh		#;
++Verb+Irreg+Imperf+3PPl:dhéanaidís		#;
++Verb+Irreg+Imperf+Auto:dhéantaí		#;
+
+LEXICON irreg-faigh
++Verb+Irreg+Pres+1PSg:faighim			#;
++Verb+Irreg+Pres+2PSg:faigheann			#;
++Verb+Irreg+Pres+3PSg:faigheann			#;
++Verb+Irreg+Pres+1PPl:faighimid			#;
++Verb+Irreg+Pres+2PPl:faigheann			#;
++Verb+Irreg+Pres+3PPl:faigheann			#;
++Verb+Irreg+Pres+Auto:faightear			#;
++Verb+Irreg+Past+1PSg:fuair				#;
++Verb+Irreg+Past+2PSg:fuair				#;
++Verb+Irreg+Past+3PSg:fuair				#;
++Verb+Irreg+Past+1PPl:fuaireamar		#;	
++Verb+Irreg+Past+2PPl:fuair				#;
++Verb+Irreg+Past+3PPl:fuair				#;
++Verb+Irreg+Past+Auto:fuarthas			#;
++Verb+Irreg+Fut+1PSg:gheobhaidh			#;
++Verb+Irreg+Fut+2PSg:gheobhaidh			#;
++Verb+Irreg+Fut+3PSg:gheobhaidh			#;
++Verb+Irreg+Fut+1PPl:gheobhaimid		#;
++Verb+Irreg+Fut+2PPl:gheobhaidh			#;
++Verb+Irreg+Fut+3PPl:gheobhaidh			#;
++Verb+Irreg+Fut+Auto:gheofar			#;
++Verb+Irreg+Con+1PSg:gheobhainn			#;
++Verb+Irreg+Con+2PSg:gheofá				#;
++Verb+Irreg+Con+3PSg:gheobhadh			#;
++Verb+Irreg+Con+1PPl:gheobhaimis		#;
++Verb+Irreg+Con+2PPl:gheobhadh			#;
++Verb+Irreg+Con+3PPl:gheobhaidís		#;
++Verb+Irreg+Con+Auto:gheofaí			#;
++Verb+Irreg+Imperf+1PSg:d'fhaighinn		#;
++Verb+Irreg+Imperf+2PSg:d'fhaighteá		#;
++Verb+Irreg+Imperf+3PSg:d'fhaigheadh	#;
++Verb+Irreg+Imperf+1PPl:d'fhaighimis	#;
++Verb+Irreg+Imperf+2PPl:d'fhaigheadh	#;
++Verb+Irreg+Imperf+3PPl:d'fhaighidís	#;
++Verb+Irreg+Imperf+Auto:d'fhaightí		#;
+
+LEXICON irreg-feic
++Verb+Irreg+Pres+1PSg:feicim			#;
++Verb+Irreg+Pres+2PSg:feiceann			#;
++Verb+Irreg+Pres+3PSg:feiceann			#;
++Verb+Irreg+Pres+1PPl:feicimid			#;
++Verb+Irreg+Pres+2PPl:feiceann			#;
++Verb+Irreg+Pres+3PPl:feiceann			#;
++Verb+Irreg+Pres+Auto:feictear			#;
++Verb+Irreg+Past+1PSg:chonaic			#;
++Verb+Irreg+Past+2PSg:chonaic			#;
++Verb+Irreg+Past+3PSg:chonaic			#;
++Verb+Irreg+Past+1PPl:chonaiceamar		#;
++Verb+Irreg+Past+2PPl:chonaic			#;
++Verb+Irreg+Past+3PPl:chonaic			#;
++Verb+Irreg+Past+Auto:chonacthas		#;		
++Verb+Irreg+Fut+1PSg:feicfidh			#;	
++Verb+Irreg+Fut+2PSg:feicfidh			#;
++Verb+Irreg+Fut+3PSg:feicfidh			#;
++Verb+Irreg+Fut+1PPl:feicfimid			#;
++Verb+Irreg+Fut+2PPl:feicfidh			#;
++Verb+Irreg+Fut+3PPl:feicfidh			#;
++Verb+Irreg+Fut+Auto:feicfear			#;	
++Verb+Irreg+Con+1PSg:d'fheicfainn		#;
++Verb+Irreg+Con+2PSg:d'fheicfeá			#;
++Verb+Irreg+Con+3PSg:d'fheicfeadh		#;
++Verb+Irreg+Con+1PPl:d'fheicfimis		#;		
++Verb+Irreg+Con+2PPl:d'fheicfeadh		#;
++Verb+Irreg+Con+3PPl:d'fheicfidís		#;
++Verb+Irreg+Con+Auto:d'fheicfí			#;
++Verb+Irreg+Imperf+1PSg:d'fheicinn		#;
++Verb+Irreg+Imperf+2PSg:d'fheicteá		#;
++Verb+Irreg+Imperf+3PSg:d'fheiceadh		#;
++Verb+Irreg+Imperf+1PPl:d'fheicimis		#;
++Verb+Irreg+Imperf+2PPl:d'fheiceadh		#;
++Verb+Irreg+Imperf+3PPl:d'fheicidís		#;	
++Verb+Irreg+Imperf+Auto:d'fheictí		#;
+
+LEXICON irreg-ith
++Verb+Irreg+Pres+1PSg:ithim				#;
++Verb+Irreg+Pres+2PSg:itheann			#;
++Verb+Irreg+Pres+3PSg:itheann			#;
++Verb+Irreg+Pres+1PPl:ithimid			#;
++Verb+Irreg+Pres+2PPl:itheann			#;
++Verb+Irreg+Pres+3PPl:itheann			#;
++Verb+Irreg+Pres+Auto:itear				#;
++Verb+Irreg+Past+1PSg:d'ith				#;
++Verb+Irreg+Past+2PSg:d'ith				#;
++Verb+Irreg+Past+3PSg:d'ith				#;
++Verb+Irreg+Past+1PPl:d'itheamar		#;
++Verb+Irreg+Past+2PPl:d'ith				#;	
++Verb+Irreg+Past+3PPl:d'ith				#;
++Verb+Irreg+Past+Auto:itheadh			#;		
++Verb+Irreg+Fut+1PSg:íosfaidh			#;	
++Verb+Irreg+Fut+2PSg:íosfaidh			#;
++Verb+Irreg+Fut+3PSg:íosfaidh			#;
++Verb+Irreg+Fut+1PPl:íosfaimid			#;
++Verb+Irreg+Fut+2PPl:íosfaidh			#;
++Verb+Irreg+Fut+3PPl:íosfaidh			#;
++Verb+Irreg+Fut+Auto:íosfar				#;	
++Verb+Irreg+Con+1PSg:d'íosfainn			#;
++Verb+Irreg+Con+2PSg:d'íosfá			#;
++Verb+Irreg+Con+3PSg:d'íosfadh			#;
++Verb+Irreg+Con+1PPl:d'íosfaimis		#;		
++Verb+Irreg+Con+2PPl:d'íosfadh			#;
++Verb+Irreg+Con+3PPl:d'íosfaidís		#;
++Verb+Irreg+Con+Auto:d'íósfaí			#;
++Verb+Irreg+Imperf+1PSg:d'ithinn		#;
++Verb+Irreg+Imperf+2PSg:d'iteá			#;
++Verb+Irreg+Imperf+3PSg:d'itheadh		#;
++Verb+Irreg+Imperf+1PPl:d'ithimis		#;
++Verb+Irreg+Imperf+2PPl:d'itheadh		#;
++Verb+Irreg+Imperf+3PPl:d'ithidís		#;	
++Verb+Irreg+Imperf+Auto:d'ití			#;
+
+LEXICON irreg-tabhair
++Verb+Irreg+Pres+1PSg:tugaim				#;
++Verb+Irreg+Pres+2PSg:tugann				#;
++Verb+Irreg+Pres+3PSg:tugann				#;
++Verb+Irreg+Pres+1PPl:tugaimid				#;
++Verb+Irreg+Pres+2PPl:tugann				#;
++Verb+Irreg+Pres+3PPl:tugann				#;
++Verb+Irreg+Pres+Auto:tugtar				#;
++Verb+Irreg+Past+1PSg:thug					#;
++Verb+Irreg+Past+2PSg:thug					#;
++Verb+Irreg+Past+3PSg:thug					#;
++Verb+Irreg+Past+1PPl:thugamar				#;
++Verb+Irreg+Past+2PPl:thug					#;
++Verb+Irreg+Past+3PPl:thug					#;		
++Verb+Irreg+Past+Auto:thugadh				#;
++Verb+Irreg+Fut+1PSg:tabharfaidh			#;
++Verb+Irreg+Fut+2PSg:tabharfaidh			#;	
++Verb+Irreg+Fut+3PSg:tabharfaidh			#;
++Verb+Irreg+Fut+1PPl:tabharfaimid			#;
++Verb+Irreg+Fut+2PPl:tabharfaidh			#;
++Verb+Irreg+Fut+3PPl:tabharfaidh			#;
++Verb+Irreg+Fut+Auto:tabharfar				#;
++Verb+Irreg+Con+1PSg:thabharfainn			#;
++Verb+Irreg+Con+2PSg:thabharfá				#;
++Verb+Irreg+Con+3PSg:thabharfadh			#;
++Verb+Irreg+Con+1PPl:thabharfaimis			#;	
++Verb+Irreg+Con+2PPl:thabharfadh			#;
++Verb+Irreg+Con+3PPl:thabharfaidís			#;	
++Verb+Irreg+Con+Auto:thabharfaí				#;
++Verb+Irreg+Imperf+1PSg:thugainn			#;
++Verb+Irreg+Imperf+2PSg:thugtá				#;
++Verb+Irreg+Imperf+3PSg:thugadh				#;
++Verb+Irreg+Imperf+1PPl:thugaimis			#;
++Verb+Irreg+Imperf+2PPl:thugadh				#;
++Verb+Irreg+Imperf+3PPl:thugaidís			#;
++Verb+Irreg+Imperf+Auto:thugtaí				#;
+
+LEXICON irreg-tar
++Verb+Irreg+Pres+1PSg:tagaim				#;
++Verb+Irreg+Pres+2PSg:tagann				#;
++Verb+Irreg+Pres+3PSg:tagann				#;
++Verb+Irreg+Pres+1PPl:tagaimid				#;
++Verb+Irreg+Pres+2PPl:tagann				#;
++Verb+Irreg+Pres+3PPl:tagann				#;
++Verb+Irreg+Pres+Auto:tagtar				#;
++Verb+Irreg+Past+1PSg:tháinig				#;
++Verb+Irreg+Past+2PSg:tháinig				#;
++Verb+Irreg+Past+3PSg:tháinig				#;
++Verb+Irreg+Past+1PPl:thángamar				#;
++Verb+Irreg+Past+2PPl:tháinig				#;
++Verb+Irreg+Past+3PPl:tháinig				#;		
++Verb+Irreg+Past+Auto:thángthas				#;
++Verb+Irreg+Fut+1PSg:tiocfaidh				#;
++Verb+Irreg+Fut+2PSg:tiocfaidh				#;	
++Verb+Irreg+Fut+3PSg:tiocfaidh				#;
++Verb+Irreg+Fut+1PPl:tiocfaimid				#;
++Verb+Irreg+Fut+2PPl:tiocfaidh				#;
++Verb+Irreg+Fut+3PPl:tiocfaidh				#;
++Verb+Irreg+Fut+Auto:tiocfar				#;
++Verb+Irreg+Con+1PSg:thiocfainn				#;
++Verb+Irreg+Con+2PSg:thiocfá				#;
++Verb+Irreg+Con+3PSg:thiocfadh				#;
++Verb+Irreg+Con+1PPl:thiocfaimis			#;	
++Verb+Irreg+Con+2PPl:thiocfadh				#;
++Verb+Irreg+Con+3PPl:thiocfaidís			#;	
++Verb+Irreg+Con+Auto:thiocfaí				#;
++Verb+Irreg+Imperf+1PSg:thagainn			#;
++Verb+Irreg+Imperf+2PSg:thagtá				#;
++Verb+Irreg+Imperf+3PSg:thagadh				#;
++Verb+Irreg+Imperf+1PPl:thagaimis			#;
++Verb+Irreg+Imperf+2PPl:thagadh				#;
++Verb+Irreg+Imperf+3PPl:thagaidís			#;
++Verb+Irreg+Imperf+Auto:thagtaí				#;
+
+LEXICON irreg-téigh
++Verb+Irreg+Pres+1PSg:téim				#;
++Verb+Irreg+Pres+2PSg:téann				#;
++Verb+Irreg+Pres+3PSg:téann				#;
++Verb+Irreg+Pres+1PPl:téimid			#;
++Verb+Irreg+Pres+2PPl:téann				#;
++Verb+Irreg+Pres+3PPl:téann				#;
++Verb+Irreg+Pres+Auto:téitear			#;
++Verb+Irreg+Past+1PSg:chuaigh			#;
++Verb+Irreg+Past+2PSg:chuaigh			#;
++Verb+Irreg+Past+3PSg:chuaigh			#;
++Verb+Irreg+Past+1PPl:chuamar			#;
++Verb+Irreg+Past+2PPl:chuaigh			#;
++Verb+Irreg+Past+3PPl:chuaigh			#;
++Verb+Irreg+Past+Auto:chuathas			#;		
++Verb+Irreg+Fut+1PSg:rachaidh			#;	
++Verb+Irreg+Fut+2PSg:rachaidh			#;
++Verb+Irreg+Fut+3PSg:rachaidh			#;
++Verb+Irreg+Fut+1PPl:rachaimid			#;
++Verb+Irreg+Fut+2PPl:rachaidh			#;
++Verb+Irreg+Fut+3PPl:rachaidh			#;
++Verb+Irreg+Fut+Auto:rachfar			#;	
++Verb+Irreg+Con+1PSg:rachainn			#;
++Verb+Irreg+Con+2PSg:rachfá				#;
++Verb+Irreg+Con+3PSg:rachadh			#;
++Verb+Irreg+Con+1PPl:rachaimis			#;		
++Verb+Irreg+Con+2PPl:rachadh			#;
++Verb+Irreg+Con+3PPl:rachaidís			#;
++Verb+Irreg+Con+Auto:rachfaí			#;
++Verb+Irreg+Imperf+1PSg:théinn			#;
++Verb+Irreg+Imperf+2PSg:théiteá			#;
++Verb+Irreg+Imperf+3PSg:théadh			#;
++Verb+Irreg+Imperf+1PPl:théimis			#;
++Verb+Irreg+Imperf+2PPl:théadh			#;
++Verb+Irreg+Imperf+3PPl:théidís			#;	
++Verb+Irreg+Imperf+Auto:théistí			#;
